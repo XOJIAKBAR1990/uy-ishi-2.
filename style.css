@@ -1,0 +1,84 @@
+.karobka1{
+    background-color: rgb(32, 192, 32);
+    text-align: center;
+    width: 1342px;
+    height: 165px;
+}
+
+.oq{
+color: white;
+}
+
+.rasm1{
+    width: 200px;
+}
+.karobka2{
+    background-color: gray;
+    text-align: left;
+    width: 1342px;
+    height: 175px;
+
+}
+
+button{
+    background-color: rgb(32, 192, 32);
+    color: white;
+    width: 150px;
+}
+
+
+
+form{
+    width: 300px;
+}
+
+
+.rasm2{
+    border-radius: 20px;
+}
+
+
+iframe{
+     width: 1342px;
+    height: 400px;
+
+}
+
+.oxirgi{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+
+}
+
+
+table,tr,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: aliceblue;
+    color: black;
+    width: 1335px;
+    padding: 10px;
+}
+
+.joy1{
+    width: 500px;
+}
+
+.joy2{
+    width: 500px;
+    height: 30px;
+}
+
+th{
+    text-align: left;
+}
+
+
+
+
+
+
+
+
+
